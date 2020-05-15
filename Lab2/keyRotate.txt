@@ -1,0 +1,3 @@
+val1 = (i+(28-circulate));
+    val2 = mod(val1,28);
+    newleft(1,val2) = str2double(left(1,i));
